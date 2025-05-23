@@ -1,10 +1,10 @@
-## 🚧 Railway Grade Crossing Accident Data Analysis
+##  Railway Grade Crossing Accident Data Analysis
 
 This repository contains a data analysis project focused on accidents at highway-rail grade crossings in the United States. Using visualizations, we uncover patterns based on weather, track type, time of day, and regional locations (state and county).
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **Filename**: `Highway-Rail_Grade_Crossing_Accident_Data.csv`  
 The dataset includes accident reports from various crossings across the U.S., providing insights into environmental, temporal, and geographical factors.
@@ -45,9 +45,9 @@ The dataset includes accident reports from various crossings across the U.S., pr
 
 ## 🛠 Tools & Libraries Used
 
-- Python 🐍
-- pandas 📊
-- matplotlib 📈
-- seaborn 🎨
+- Python 
+- pandas 
+- matplotlib 
+- seaborn 
 
 ---
